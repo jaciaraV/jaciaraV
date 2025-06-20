@@ -2,15 +2,14 @@
 
 ## 🎓 Student aspiring to be a Data Analyst and curious about Full-Stack
 
-Welcome to my GitHub profile! I am a **passionate developer and data analyst** always looking for new challenges and opportunities to learn.
+💻 Junior Full Stack Developer | 📊 Aspiring Data Analyst
+📍 Based in Portugal | she/her
 
 ## 👨‍💻 About Me
 
-I am a developer learning and specializing in various programming languages and technologies.  
-I love solving complex problems, learning new skills, and collaborating with other professionals to create innovative solutions.  
-My goal is to combine my knowledge in programming with my passion for data science and mathematics to work on impactful projects.
+I'm a passionate developer with a background in IT Management and practical experience in full stack development. I've worked with technologies such as SvelteKit, TypeScript, PostgreSQL, and Playwright, building real applications and improving usability, performance, and testing workflows.
 
----
+I enjoy solving complex problems, exploring new technologies, and contributing to meaningful projects. My goal is to combine my programming skills with a passion for data and mathematics to create impactful solutions.
 
 ## 🛠️ Languages and Technologies
 
@@ -19,6 +18,8 @@ Here are some of the main technologies and languages I'm learning:
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -41,10 +42,6 @@ Here are some of the main technologies and languages I'm learning:
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
----
-
-## 🚀 Current Projects
 
 ---
 

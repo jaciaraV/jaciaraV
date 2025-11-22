@@ -1,8 +1,5 @@
 # Hi, I'm Vivian! 👋
 
-## 🎓 Student aspiring to be a Data Analyst and curious about Full-Stack
-
-💻 Junior Full Stack Developer | 📊 Aspiring Data Analyst
 📍 Based in Portugal | she/her
 
 ## 👨‍💻 About Me
